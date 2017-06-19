@@ -1,0 +1,15 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "monguito": {
+    "host": "localhost",
+    "port": 27017,
+    "database": "testLoopback",
+    "password": "",
+    "name": "monguito",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
